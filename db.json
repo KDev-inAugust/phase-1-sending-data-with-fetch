@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,113 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 1
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 2
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 3
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 4
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 5
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 6
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 7
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 8
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 9
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 10
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 11
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 12
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 13
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 14
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 15
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 16
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 17
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 18
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 19
+    },
+    {
+      "name": "test name",
+      "email": "test mail",
+      "id": 20
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
